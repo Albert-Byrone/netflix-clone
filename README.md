@@ -1,4 +1,4 @@
-# Chuck Norris Jokes App
+# Netflix-Clone
 
 A React Application that consumes the [TMDb ,The Movie Database API](https://www.themoviedb.org/)
 
