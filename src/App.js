@@ -4,6 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      {/* banner */}
+      <Banner />
       <Row  
       title="PLAYING NOW"
       fetchUrl={requests.fetchNowPlayingMovies}
