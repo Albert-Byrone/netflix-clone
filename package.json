@@ -1,5 +1,9 @@
 {
   "name": "netflix-clone",
+  "author": {
+    "name": "Albert Byrone",
+    "email": "albertbyrone1677@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
